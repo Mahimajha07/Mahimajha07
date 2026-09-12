@@ -1,7 +1,6 @@
 # # Hi, I'm Mahima Jha 👋
 
-First-year undergraduate at **IIT Patna** (AI & Cyber Security). I love learning and exploring new ideas through projects — currently focused on **Machine Learning / Deep Learning**, especially applied to satellite imagery, bioinformatics, and disaster prediction.i Started with a Kaggle EuroSAT notebook in my first semester and got hooked on remote sensing. and continuing further 
-
+First-year undergraduate at IIT Patna (AI & Cyber Security). Started with a Kaggle EuroSAT notebook in my first semester and got hooked on remote sensing — now exploring Machine Learning / Deep Learning applied to satellite imagery, bioinformatics, and disaster prediction.
 ##  What I'm working on
 
 - 🛰️ **[EUTO-SAT Land Cover Classification & SAR-to-Optical Translation](https://github.com/Mahimajha07/EUTO-SAT---land-cover-classification-)** — CNN-based land cover classification and GAN-based SAR-to-optical image translation
