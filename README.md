@@ -25,7 +25,7 @@ First-year undergraduate at IIT Patna (AI & Cyber Security). Started with a Kagg
 - Bioinformatics and computational genomics
 - Cybersecurity fundamentals alongside AI coursework
 
-## 📫 Connect with me
+##  Connect with me 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahima-jha07)
 
