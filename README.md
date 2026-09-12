@@ -1,4 +1,4 @@
-# # Hi, I'm Mahima Jha 
+#  Hi, I'm Mahima Jha 
 
 First-year undergraduate at IIT Patna (AI & Cyber Security). Started with a Kaggle EuroSAT notebook in my first semester and got hooked on remote sensing — now exploring Machine Learning / Deep Learning applied to satellite imagery, bioinformatics, and disaster prediction.
 ##  What I'm working on
