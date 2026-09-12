@@ -1,12 +1,12 @@
-# # Hi, I'm Mahima Jha 👋
+# # Hi, I'm Mahima Jha 
 
 First-year undergraduate at IIT Patna (AI & Cyber Security). Started with a Kaggle EuroSAT notebook in my first semester and got hooked on remote sensing — now exploring Machine Learning / Deep Learning applied to satellite imagery, bioinformatics, and disaster prediction.
 ##  What I'm working on
 
-- 🛰️ **[EUTO-SAT Land Cover Classification & SAR-to-Optical Translation](https://github.com/Mahimajha07/EUTO-SAT---land-cover-classification-)** — CNN-based land cover classification and GAN-based SAR-to-optical image translation
-- 🌊 **[FloodNet](https://github.com/Mahimajha07/floodnet)** — U-Net based flood extent segmentation from aerial imagery
-- 🔥 **[Wildfire Risk Prediction (AU/NZ)](https://github.com/Mahimajha07/wildfire.aus.new.zeland)** — CNN model for wildfire risk/spread prediction
-- 🧬 **[genome-insight](https://github.com/Mahimajha07/genome-insight)** — Python pipeline for SNP genotype QC, zygosity classification, and Runs of Homozygosity (ROH) detection
+-  **[EUTO-SAT Land Cover Classification & SAR-to-Optical Translation](https://github.com/Mahimajha07/EUTO-SAT---land-cover-classification-)** — CNN-based land cover classification and GAN-based SAR-to-optical image translation
+-  **[FloodNet](https://github.com/Mahimajha07/floodnet)** — U-Net based flood extent segmentation from aerial imagery
+-  **[Wildfire Risk Prediction (AU/NZ)](https://github.com/Mahimajha07/wildfire.aus.new.zeland)** — CNN model for wildfire risk/spread prediction
+-  **[genome-insight](https://github.com/Mahimajha07/genome-insight)** — Python pipeline for SNP genotype QC, zygosity classification, and Runs of Homozygosity (ROH) detection
 
 ## Skills & Tools
 
